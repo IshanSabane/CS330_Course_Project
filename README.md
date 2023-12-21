@@ -25,5 +25,8 @@ We currently support DETR model from hugging face as the backbone for the object
 Use the run.sh file run the respective tasks.
 
 
+<div>
+	<img src = "./poster.png", alt =  "ProjectPoster"></img>
+</div>
 
 
