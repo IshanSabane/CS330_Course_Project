@@ -1,4 +1,3 @@
-# CS330 Deep Multi-Task and Meta Learning Course Project
 # Enhancing Autonomous Navigation Few-Shot 3D Object Detection Using Depth Supervision
 
 ### Getting Started
@@ -29,4 +28,5 @@ Use the run.sh file run the respective tasks.
 	<img src = "./poster.png", alt =  "ProjectPoster"></img>
 </div>
 
+CS330 Deep Multi-Task and Meta Learning Course Project
 
